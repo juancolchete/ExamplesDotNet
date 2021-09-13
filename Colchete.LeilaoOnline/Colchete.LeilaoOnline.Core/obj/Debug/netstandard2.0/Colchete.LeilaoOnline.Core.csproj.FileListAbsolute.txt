@@ -1,0 +1,10 @@
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\bin\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.deps.json
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\bin\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.dll
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\bin\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.pdb
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.dll
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.Core\obj\Debug\netstandard2.0\Colchete.LeilaoOnline.Core.pdb

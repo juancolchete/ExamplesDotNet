@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Colchete.LeilaoOnline.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Colchete.LeilaoOnline.Core": "1.0.0"
+        },
+        "runtime": {
+          "Colchete.LeilaoOnline.ConsoleApp.dll": {}
+        }
+      },
+      "Colchete.LeilaoOnline.Core/1.0.0": {
+        "runtime": {
+          "Colchete.LeilaoOnline.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colchete.LeilaoOnline.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Colchete.LeilaoOnline.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

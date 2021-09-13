@@ -1,0 +1,17 @@
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.exe
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.dll
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.pdb
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.Core.dll
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Colchete.LeilaoOnline.Core.pdb
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.dll
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.pdb
+C:\Users\juan.colchete\Desktop\Estudos\TDD\Colchete.LeilaoOnline\Colchete.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Colchete.LeilaoOnline.ConsoleApp.genruntimeconfig.cache
